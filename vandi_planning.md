@@ -13,7 +13,7 @@
     설정메뉴버튼  
     <img width="500" src="./images/menubutton.png"> <br>
     
-    설정메뉴뷰  
+    설정메뉴 view  
     <img width="500" src="./images/menuview.png"> <br>
 
 <br/><br/>
