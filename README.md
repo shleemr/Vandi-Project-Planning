@@ -1,7 +1,14 @@
 
 
 # 플레이반디 차기 작업 기획
+
+<br/>
+
+## Code
+[코드 정리 작업](Code정리.md)
+
 <br/><br/>
+
 ## Menus
 ### 메뉴 구성 개선
 * 진입 화면에서 네트워크 선택 버튼들 없애기 (핫스팟 네트워크 기본 연결)  
@@ -15,10 +22,6 @@
     
     설정메뉴 view  
     <img width="500" src="./images/menuview.png"> <br>
-
-<br/>
-
-### [코드 정리](Code정리.md)
 
 <br/><br/>
 ## New Features
