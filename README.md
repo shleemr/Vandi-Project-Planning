@@ -16,6 +16,10 @@
     설정메뉴 view  
     <img width="500" src="./images/menuview.png"> <br>
 
+<br/>
+
+### [코드 정리](Code정리.md)
+
 <br/><br/>
 ## New Features
 ### 새롭게 추가되는 기능
