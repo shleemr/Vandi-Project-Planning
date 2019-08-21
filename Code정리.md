@@ -13,7 +13,6 @@
 * MapActivity 내에 사용된 안내용 문자열 string resource 파일로 분리
 
 
-
 #
 ### 기타 기능 추가 및 안정화
     - GPX 로그 다운로드 기능
